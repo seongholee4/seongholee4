@@ -38,15 +38,12 @@ _For a more detailed list of my projects, please check out my [portfolio](https:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <table style="border-collapse: separate; border-spacing: 1.5rem 0; border-color: white;">
-    <tr>
-      <td style="background-color: #282a36; padding: 1rem; border-radius: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=seongholee4&show_icons=true&theme=radical" alt="Seongho Lee's GitHub stats" />
-      </td>
-      <td style="background-color: #282a36; padding: 1rem; border-radius: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongholee4&layout=compact&theme=radical" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/seongholee4">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seongholee4&show_icons=true&theme=radical" alt="Seongho Lee's GitHub stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/seongholee4">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongholee4&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
 </p>
 
