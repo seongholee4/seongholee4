@@ -24,8 +24,8 @@ Explore my repositories and reach out to collaborate!
 ## 💻 Projects
 - [Academic Projects](https://github.com/stars/seongholee4/lists/school-project)
 - [Perosnal Projects](https://github.com/stars/seongholee4/lists/project)
-- [Personal website](https://seongholee4.github.io/)
-- [Portfolio](https://www.seongholee.com)
+- **Personal website**: _https://seongholee4.github.io/_
+- **Portfolio**: _https://www.seongholee.com_
 
 ## 📚 Education
 - **3-2 Combined Plan Engineering Program, Dual Bachelor's Degree** in Computer Science:
