@@ -28,7 +28,7 @@ Explore my repositories and reach out to collaborate!
 - **Portfolio**: _https://www.seongholee.com_
 
 ## 📚 Education
-- **3-2 Combined Plan Engineering Program, Dual Bachelor's Degree** in Computer Science:
+- **3-2 Combined Plan Engineering Program, Dual Bachelor's of Science Degree** in Computer Science:
   - [Columbia University](https://www.columbia.edu/), [2021 - 2024]
   - [Dickinson College](https://www.dickinson.edu/), [2016 - 2021]
 
